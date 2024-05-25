@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, This is furkankarlidag.👋
 
-<!--
-**furkankarlidag/furkankarlidag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkankarlidag&layout=compact&theme=default" alt="Top Languages" />
+  <div style="margin-left: 20px;">
+    <h3>Socials:</h3>
+    <a href="https://www.linkedin.com/in/furkan-karlidag-447853206/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </div>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
